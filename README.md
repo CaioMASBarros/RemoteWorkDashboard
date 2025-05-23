@@ -1,2 +1,2 @@
 # RemoteWorkDashboard
-Dashboard interativo analisando salários de empregos remotos.
+Este projeto consiste em uma aplicação web interativa desenvolvida com a biblioteca Dash (Plotly) em Python. O objetivo é explorar como o trabalho remoto se relaciona com salários, níveis de experiência e tipos de emprego em diferentes indústrias, por meio de visualizações dinâmicas baseadas em um dataset estruturado com 500 registros fictícios de profissionais em regime remoto ou híbrido.
